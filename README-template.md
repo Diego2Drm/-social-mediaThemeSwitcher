@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Diego2Drm/social-media-theme-switcher)
+- Solution URL: [-social-mediaThemeSwitcher](https://github.com/Diego2Drm/-social-mediaThemeSwitcher)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
