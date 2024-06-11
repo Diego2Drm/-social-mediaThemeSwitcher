@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [-social-mediaThemeSwitcher](https://github.com/Diego2Drm/-social-mediaThemeSwitcher)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site](https://diego2drm.github.io/-social-mediaThemeSwitcher/)
 
 ## My process
 
